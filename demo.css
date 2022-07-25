@@ -1,0 +1,21 @@
+body{
+    background-image: url(/json/de.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    font-size: 70px;
+    
+}
+
+.All{
+    margin-top: 350px;
+    font-size: 50px;
+}
+
+.box{
+    width: 500px;
+    height: 50px;
+    
+
+}
